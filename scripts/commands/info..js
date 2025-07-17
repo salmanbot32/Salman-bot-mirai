@@ -27,9 +27,9 @@ const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
 var link = ["https://i.imgur.com/odc9fPd.jpeg", 
             
-            "https://i.imgur.com/WSLqXbP.mp4", 
+            "https://i.imgur.com/odc9fPd.jpeg", 
             
-            "https://i.imgur.com/Zw6jLYJ.mp4",
+            "https://i.imgur.com/odc9fPd.jpeg",
 
 "https://i.imgur.com/odc9fPd.jpeg",
             
