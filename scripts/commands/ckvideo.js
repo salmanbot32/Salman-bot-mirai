@@ -20,20 +20,20 @@ module.exports.run = async ({ api, event, args, client, Users, Threads, __GLOBAL
   const request = global.nodemodule["request"];
   const fs = global.nodemodule["fs-extra"];
 
-  var hi = ["--যারা ফুলকে ভালোবাসে তারা নিজেরাই এক একটা ফুল 💕🌸 --𝐅𝐚𝐫𝐡𝐚𝐧-𝐈𝐬𝐥𝐚𝐦--"];
+  var hi = ["--যারা ফুলকে ভালোবাসে তারা নিজেরাই এক একটা ফুল 💕🌸 --𝐒𝐌–𝐒𝐀𝐋𝐌𝐀𝐍--"];
   var know = hi[Math.floor(Math.random() * hi.length)];
   var link = [
-    "https://drive.google.com/uc?id=13sAsW5wQ3qhNfAMuJBLJD6NQnw8mexou",
+    "https://i.imgur.com/TIjMeGr.mp4",
     "https://drive.google.com/uc?id=136oqsV5ff-DhKScw4TRmv0iefQRvdEDc",
     "https://drive.google.com/uc?id=13Hbrq6Qrc5Pd2_PVB9XzMiHsx0lhLCPF",
     "https://drive.google.com/uc?id=13-KSN4yUN8TdVZm4OtVUs0qbVYefPB4F",
-    "https://drive.google.com/uc?id=13WMlu9HeUjMPeB9iVLjbIGyCtPDn1_XW",
+    "https://i.imgur.com/sAZfkU7.mp4",
     "https://drive.google.com/uc?id=13rGGm97uus5SSj3QLzBxQMje8j0CZIes",
     "https://drive.google.com/uc?id=13Q85KfF5gQnclgDwoC7iUiEcwDKstNrb",
     "https://drive.google.com/uc?id=142Y95z79WtfVnjA5WH9BXu1n7IAVAANS",
     "https://drive.google.com/uc?id=13yjHB5Ty44vyp8SGqBnK90KF4242MA1d",
     "https://drive.google.com/uc?id=13YLFXAzq4lW6wacISzqAoSw2sHe-aXL_",
-    "https://drive.google.com/uc?id=138wEfuuPZm-S9pONKboQowMMY_tK4RTX",
+    "https://i.imgur.com/MWtihpj.mp4",
     "https://drive.google.com/uc?id=13-YbLYqQBA2d9bf46GGqp80vsL5WnOdz",
     "https://drive.google.com/uc?id=138iWDaltcR6Q9C2ZlNiFomicSSBbUzXu",
     "https://drive.google.com/uc?id=13abtid-Du_ZJtRcpT6qUhW5mF4NyI61Y",
